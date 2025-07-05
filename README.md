@@ -19,7 +19,7 @@ This is a simple and interactive **Rock-Paper-Scissors** web game built using **
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/reshini25/rock-paper-scissors.git
+   git clone https://github.com/reshini25/rock-paper-scissors
 
 👩‍💻 Author
 Reshini Ahla
